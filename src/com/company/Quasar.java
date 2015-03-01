@@ -48,7 +48,7 @@ public class Quasar
                     case 13:
                     case 14:
                     case 15:
-                        number += random.nextInt(3) + 4;
+                        number += random.nextInt(4) + 4;
                         break;
                     case 3:
                     case 4:
@@ -58,7 +58,7 @@ public class Quasar
                     case 11:
                     case 12:
                     case 16:
-                        number += random.nextInt(7) + 1;
+                        number += random.nextInt(8) + 1;
                         break;
                 }
             }
